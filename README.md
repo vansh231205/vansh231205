@@ -43,9 +43,9 @@
 
 ## 🔌 IoT & Embedded
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
+![ESP8266](https://img.shields.io/badge/ESP8266-E34F26?style=for-the-badge)
 
 ---
 
