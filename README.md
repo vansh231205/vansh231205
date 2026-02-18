@@ -26,7 +26,10 @@
 # 🛠️ Tech Stack
 
 ## 📱 Mobile Development
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![JAVA](https://img.shields.io/badge/JAVA-0175C2?style=for-the-badge&logo=dart)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Android](https://img.shields.io/badge/Android-F7DF1E?style=for-the-badge&logo=javascript)
+
 
 ## 🌐 Web & Backend
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
