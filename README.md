@@ -13,13 +13,13 @@
 
 ## 👨‍💻 About Me
 
-- 📱 Developing cross-platform mobile apps using **Flutter**
+- 📱 Developing Android apps using **Core JAVA**
 - 🌐 Building scalable web applications
-- 🐍 Backend development with **Python & Node.js**
-- 🗄️ Database management using **MongoDB**
+- 🐍 Backend development with **Python**
+- 🗄️ Database management using **SQL**
 - 📡 Creating smart solutions using **IoT technologies**
 - 🔌 Working with **Embedded Systems & Microcontrollers**
-- ⚡ Passionate about merging **Software + Hardware**
+- ⚡ Passionate about merging **Software + Hardware + Networking**
 
 ---
 
@@ -33,7 +33,7 @@
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cplusplus)
 
 ## 🗄️ Database
 ![SQL](https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=sql)
@@ -42,6 +42,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi)
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge)
 
 ---
 
