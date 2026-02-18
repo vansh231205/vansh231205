@@ -36,7 +36,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
 ## 🗄️ Database
-![SQL](https://cdn.vectorstock.com/i/500p/26/50/sql-database-icon-logo-design-ui-or-ux-app-vector-49772650.avif?style=for-the-badge&logo=sql)
+![SQL](https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=sql)
 
 ## 🔌 IoT & Embedded
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
