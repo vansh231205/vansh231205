@@ -39,7 +39,7 @@
 ![Python](https://img.shields.io/badge/Python-c28d30?style=for-the-badge&logo=python)
 
 ## 🗄️ Database
-![SQL](https://img.shields.io/badge/SQL-A22846?style=for-the-badge&logo=mysql)
+![SQL](https://img.shields.io/badge/SQL-4e3533?style=for-the-badge&logo=mysql)
 
 ## 🔌 IoT & Embedded
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
