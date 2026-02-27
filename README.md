@@ -26,20 +26,20 @@
 # 🛠️ Tech Stack
 
 ## 📱 Mobile Development
-![JAVA](https://img.shields.io/badge/JAVA-0175C2?style=for-the-badge&logo=dart)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Android](https://img.shields.io/badge/Android-F7DF1E?style=for-the-badge&logo=javascript)
+![JAVA](https://img.shields.io/badge/JAVA-0175C2?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python)
+![Android](https://img.shields.io/badge/Android-3776AB?style=for-the-badge&logo=android)
 
 
 ## 🌐 Web & Backend
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML-4e3533?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 
 ## 🗄️ Database
-![SQL](https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=sql)
+![SQL](https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=mysql)
 
 ## 🔌 IoT & Embedded
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
