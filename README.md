@@ -66,10 +66,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://leetcode-readme-streak-stats.herokuapp.com/?user=vansh231205&theme=tokyonight" />
-</p>
-
 # 💡 What Makes Me Different?
 
 ✔️ I don’t just build apps — I build systems  
