@@ -84,6 +84,9 @@
 <a href="mailto:vanbhardwaj23@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
+<a href="https://leetcode.com/u/vansh231205/">
+<img src="https://img.shields.io/badge/LeetCode-#232323?style=for-the-badge&logo=leetcode"/>
+</a>
 </p>
 
 ---
